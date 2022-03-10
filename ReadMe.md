@@ -8,4 +8,4 @@ This is a simple Login page that
 
 
 Setting Up the virtual Enviroment
-* You can run on HTML
+* runs on anyway PHP server
