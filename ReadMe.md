@@ -9,3 +9,11 @@ This is a simple Login page that
 
 Setting Up the virtual Enviroment
 * runs on anyway PHP server
+
+<img src="pics/IMG_20220331_150422.jpg" width="400" height="250">
+<img src="pics/IMG_20220331_150422.jpg" width="400" height="250">
+<img src="pics/IMG_20220331_150422.jpg" width="400" height="250">
+<img src="pics/IMG_20220331_150422.jpg" width="400" height="250">
+<img src="pics/IMG_20220331_150422.jpg" width="400" height="250">
+
+
